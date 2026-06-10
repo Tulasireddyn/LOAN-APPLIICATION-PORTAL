@@ -6,9 +6,7 @@ A modern, responsive, and secure Loan Application Portal designed for field agen
 
 ## 🔗 Live Deployments
 
-- **Frontend App (Vercel):** *Pending deployment...*
-- **Backend API (Render):** *Pending deployment...*
-- **Live Database (Neon PostgreSQL):** *Active*
+- [Frontend App (Vercel)]: (https://loan-appliication-portal.vercel.app/)
 
 ---
 
